@@ -1,0 +1,20 @@
+# Git profile setup script
+# Replace values below with your actual name and email.
+
+# Set global profile
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+
+# Optional global settings
+git config --global core.editor "code --wait"
+git config --global init.defaultBranch main
+git config --global credential.helper manager-core
+
+git config --global alias.st status
+git config --global alias.ci commit
+git config --global alias.co checkout
+
+echo "Git profile configured:"
+git config --global user.name
+git config --global user.email
+
