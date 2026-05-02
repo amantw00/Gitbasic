@@ -1,0 +1,32 @@
+AI Learning Curve
+
+1. Foundational Knowledge
+   - Understanding basic concepts (ML, DL, NLP)
+   - Linear algebra, calculus, probability
+   - Programming fundamentals (Python)
+
+2. Core Skills Development
+   - Data preprocessing and cleaning
+   - Feature engineering
+   - Model selection and training
+   - Evaluation metrics
+
+3. Intermediate Applications
+   - Computer Vision basics
+   - Natural Language Processing
+   - Time series analysis
+   - Reinforcement learning introduction
+
+4. Advanced Topics
+   - Transformer architectures
+   - Large Language Models (LLMs)
+   - Generative AI
+   - Model optimization and deployment
+
+5. Practical Experience
+   - Build personal projects
+   - Participate in competitions
+   - Contribute to open-source
+   - Real-world problem solving
+
+Timeline: 6-12 months for solid foundation, 2-3 years for expertise
